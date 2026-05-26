@@ -15,7 +15,6 @@ This project builds a machine learning classification model to identify the spec
 
 ##  Tech Stack
 
-| Tool | Purpose |
 **Python 3:** Core language 
 **Pandas:** Data loading and manipulation 
 **NumPy:** Numerical operations
@@ -61,7 +60,7 @@ This project builds a machine learning classification model to identify the spec
 
 ##  Repository Structure
 
-CodeAlpha_IrisFlowerClassification/
+- CodeAlpha_IrisFlowerClassification/
 ├── Iris_Classification.ipynb   # Main notebook with all code and outputs
 ├── Iris.csv                    # Dataset
 └── README.md                   # Project documentation
@@ -70,12 +69,12 @@ CodeAlpha_IrisFlowerClassification/
 
 1. Clone this repository
    
-   git clone https://github.com/Saher427/CodeAlpha_IrisFlowerClassification.git
-   cd CodeAlpha_IrisFlowerClassification
+   - git clone https://github.com/Saher427/CodeAlpha_IrisFlowerClassification.git
+   - cd CodeAlpha_IrisFlowerClassification
    
 2. Install dependencies
    
-   pip install pandas numpy matplotlib seaborn scikit-learn
+   - pip install pandas numpy matplotlib seaborn scikit-learn
    
 3. Open the notebook
    
