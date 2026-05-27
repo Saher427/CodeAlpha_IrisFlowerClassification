@@ -60,7 +60,6 @@ This project builds a machine learning classification model to identify the spec
 | **Overall Accuracy** | | | **0.90** | **30** |
 
 
-
 ##  Visualizations
 
 - Pairplot showing feature relationships across the 3 species
